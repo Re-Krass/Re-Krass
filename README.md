@@ -1,5 +1,10 @@
 <p align="center">
-  <img alt="Profile Logo" src="https://raw.githubusercontent.com/Re-Krass/Re-Krass/master/images/Re-Krass_Banner.svg" width="100%">
+  <a
+    title="Visit homepage"
+    href="https://Re-Krass.github.io/"
+    target="_blank">
+      <img alt="Profile Banner" src="https://raw.githubusercontent.com/Re-Krass/Re-Krass/master/images/Re-Krass_Banner.svg" width="100%">
+  </a>
 </p>
 
 ## Certificates:
@@ -9,11 +14,11 @@
     title="Visit my CTFL certificate"
     href="https://skillshub.isqi.org/jpp8kloi"
     target="_blank">
-    <img
-      alt="CTFL badge"
-      width="150px"
-      height="150px"
-      src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+      <img
+        alt="CTFL badge"
+        width="150px"
+        height="150px"
+        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
   </a>
 </p>
 
