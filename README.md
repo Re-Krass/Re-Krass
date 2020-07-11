@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Profile Logo" src="/images/Re-Krass_Banner.svg" width="100%">
+  <img alt="Profile Logo" src="https://raw.githubusercontent.com/Re-Krass/Re-Krass/master/images/Re-Krass_Banner.svg" width="100%">
 </p>
 
 ## Certificates:
