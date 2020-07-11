@@ -1,5 +1,13 @@
 <h1 align="center">Re-Krass</h1>
 
+## Certificates:
+
+<img
+  alt="CTFL badge"
+  width="150px"
+  height="150px"
+  src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+
 ## Links: 
 
 - <a  
