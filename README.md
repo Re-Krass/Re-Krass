@@ -3,11 +3,16 @@
 ## Certificates:
 
 <p align="center">
-  <img
-    alt="CTFL badge"
-    width="150px"
-    height="150px"
-    src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+  <a
+    title="Visit my CTFL certificate"
+    href="https://skillshub.isqi.org/jpp8kloi"
+    target="_blank">
+    <img
+      alt="CTFL badge"
+      width="150px"
+      height="150px"
+      src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+  </a>
 </p>
 
 ## Links: 
