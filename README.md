@@ -26,8 +26,6 @@
   </a>
 </p>
 
----
-
 <h2 align="center">Links:</h2>
 
 <p align="center">
