@@ -15,7 +15,7 @@
   </a>
 </p>
 
-## Links: 
+## Links:
 
 - <a  
     title="Visit: Re-Krass.github.io"
@@ -40,3 +40,39 @@
     href="https://skillshub.isqi.org/profile/renkarra"
     target="_blank">SkillsHub
   </a>
+
+<table width="100%">
+  <tr>
+    <td>
+    <a  
+    title="Visit: Re-Krass.github.io"
+    href="https://Re-Krass.github.io/"
+    target="_blank">Homepage
+  </a>
+  </td>
+  
+<td> 
+  <a
+    title="Visit: linkedin.com/in/rene-karrass"
+    href="https://www.linkedin.com/in/rene-karrass/"
+    target="_blank" >LinkedIn
+  </a>
+  </td>
+
+<td>
+  <a
+    title="Visit: xing.com/profile/Rene_Karrass/cv"
+    href="https://www.xing.com/profile/Rene_Karrass/cv"
+    target="_blank">XING
+  </a>
+  </td>
+
+<td>
+  <a
+    title="Visit: skillshub.isqi.org/profile/renkarra"
+    href="https://skillshub.isqi.org/profile/renkarra"
+    target="_blank">SkillsHub
+  </a>
+    </td>
+  </tr>
+</table>
