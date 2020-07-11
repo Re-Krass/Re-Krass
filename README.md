@@ -10,6 +10,8 @@
   </a>
 </p>
 
+---
+
 ## Certificates:
 
 <p align="center">
@@ -24,6 +26,8 @@
         src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
   </a>
 </p>
+
+---
 
 ## Links:
 
@@ -46,8 +50,8 @@
     target="_blank">
       <img
         alt="LinkedIn logo"
-        width="50px"
-        height="50px"
+        width="35px"
+        height="35px"
         src="https://raw.githubusercontent.com/Re-Krass/Re-Krass/master/images/icons/linkedin.svg?raw=true">
   </a>
   <a
@@ -56,8 +60,8 @@
     target="_blank">
       <img 
         alt="XING logo"
-        width="50px"
-        height="50px"
+        width="35px"
+        height="35px"
         src="https://raw.githubusercontent.com/Re-Krass/Re-Krass/master/images/icons/xing.svg?raw=true">
   </a>
 </p>
