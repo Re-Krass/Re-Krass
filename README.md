@@ -1,4 +1,6 @@
-<h1 align="center">Re-Krass</h1>
+<p align="center">
+  <img alt="Profile Logo" src="/images/Re-Krass_Banner.svg" width="100%">
+</p>
 
 ## Certificates:
 
