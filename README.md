@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Re-Krass</h1>
 
-<!--
-**Re-Krass/Re-Krass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Links: 
 
-Here are some ideas to get you started:
+- <a  
+    title="Visit: Re-Krass.github.io"
+    href="https://Re-Krass.github.io/"
+    target="_blank">Homepage
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <a
+    title="Visit: linkedin.com/in/rene-karrass"
+    href="https://www.linkedin.com/in/rene-karrass/"
+    target="_blank" >LinkedIn
+  </a>
+
+- <a
+    title="Visit: xing.com/profile/Rene_Karrass/cv"
+    href="https://www.xing.com/profile/Rene_Karrass/cv"
+    target="_blank">XING
+  </a>
+
+- <a
+    title="Visit: skillshub.isqi.org/profile/renkarra"
+    href="https://skillshub.isqi.org/profile/renkarra"
+    target="_blank">SkillsHub
+  </a>
