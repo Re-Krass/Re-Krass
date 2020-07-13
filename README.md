@@ -36,7 +36,7 @@
   <a
     title="Visit: skillshub.isqi.org/profile/renkarra"
     href="https://skillshub.isqi.org/profile/renkarra"
-    target="_blank">SkillsHub
+    target="_blank">SkillsHub &nbsp;&nbsp;
   </a>
 </p>
 
